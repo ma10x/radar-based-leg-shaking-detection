@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=VCC Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=NetP2_3 Pin=P2-3
+Removed Pin From Net: NetName=NetP2_4 Pin=P2-4
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Pin From Net: NetName=VCC Pin=P3-3
+Removed Pin From Net: NetName=NetP2_3 Pin=P4-3
+Removed Pin From Net: NetName=NetP2_4 Pin=P4-4
+Removed Pin From Net: NetName=GND Pin=U?-GND
+Removed Pin From Net: NetName=NetU1_36 Pin=U?-SCL
+Removed Pin From Net: NetName=NetU1_33 Pin=U?-SDA
+Removed Pin From Net: NetName=VCC Pin=U?-VCC
+Added Component: Designator=CN?(CONN-TH_2P-P2.50-XH2.54-2P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P2(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SW-TH_KH-SS12D11-G5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL-1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(ESP32DEVKITC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(0.96OLEDIIC)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=NetP2_3 Pin=P2-3
+Added Pin To Net: NetName=NetP2_4 Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=VCC Pin=P3-3
+Added Pin To Net: NetName=NetP2_3 Pin=P4-3
+Added Pin To Net: NetName=NetP2_4 Pin=P4-4
+Added Pin To Net: NetName=GND Pin=U?-GND
+Added Pin To Net: NetName=NetU1_36 Pin=U?-SCL
+Added Pin To Net: NetName=NetU1_33 Pin=U?-SDA
+Added Pin To Net: NetName=VCC Pin=U?-VCC
+Added Member To Class: ClassName=XH2.54-2P_Ö±²å_2024-04-30 Member=Component CN? 
+Added Member To Class: ClassName=0.96OLED_4P_2024-05-03 Member=Component U? 
+Added Member To Class: ClassName=ESP32DevKitC_2024-03-25 Member=Component U? 
+Added Member To Class: ClassName=PW5410B_2024-04-30 Member=Component U? 
+Added Member To Class: ClassName=Sheet2 Member=Component U? 
+Added Member To Class: ClassName=switch-SS12D11-G5_2024-05-03 Member=Component U? 
+Added Room: Name=0.96OLED_4P_2024-05-03
+Added Room: Name=ESP32DevKitC_2024-03-25
+Added Room: Name=PW5410B_2024-04-30
+Added Room: Name=Sheet2
+Added Room: Name=switch-SS12D11-G5_2024-05-03
+Added Room: Name=XH2.54-2P_Ö±²å_2024-04-30

@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=VCC Pin=P3-3
+Removed Pin From Net: NetName=NetP2_3 Pin=P4-3
+Removed Pin From Net: NetName=NetP2_4 Pin=P4-4
+Removed Pin From Net: NetName=GND Pin=U?-GND
+Removed Pin From Net: NetName=NetU1_36 Pin=U?-SCL
+Removed Pin From Net: NetName=NetU1_33 Pin=U?-SDA
+Removed Pin From Net: NetName=VCC Pin=U?-VCC
+Change Component Footprint: Designator=P3 Old Footprint=HDR1X4 New Footprint=HDR2X4
+Change Component Comment : Designator=P3 Old Comment=Header 4 New Comment=Header 4X2
+Added Component: Designator=CN?(CONN-TH_2P-P2.50-XH2.54-2P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(SW-TH_KH-SS12D11-G5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL-1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(ESP32DEVKITC)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=P3-5
+Added Pin To Net: NetName=NetP2_3 Pin=P3-6
+Added Pin To Net: NetName=NetP2_4 Pin=P3-8
+Added Member To Class: ClassName=XH2.54-2P_Ö±²å_2024-04-30 Member=Component CN? 
+Added Member To Class: ClassName=Sheet2 Member=Component P2 Header 4
+Added Member To Class: ClassName=Sheet2 Member=Component P3 Header 4X2
+Added Member To Class: ClassName=0.96OLED_4P_2024-05-03 Member=Component U? 
+Added Member To Class: ClassName=ESP32DevKitC_2024-03-25 Member=Component U? 
+Added Member To Class: ClassName=PW5410B_2024-04-30 Member=Component U? 
+Added Member To Class: ClassName=Sheet2 Member=Component U? 
+Added Member To Class: ClassName=switch-SS12D11-G5_2024-05-03 Member=Component U? 
+Added Room: Name=0.96OLED_4P_2024-05-03
+Added Room: Name=ESP32DevKitC_2024-03-25
+Added Room: Name=PW5410B_2024-04-30
+Added Room: Name=Sheet2
+Added Room: Name=switch-SS12D11-G5_2024-05-03
+Added Room: Name=XH2.54-2P_Ö±²å_2024-04-30

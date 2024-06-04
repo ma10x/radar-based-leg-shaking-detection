@@ -1,0 +1,99 @@
+Added Component: Designator=b1(beep)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(C_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(C_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(C_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CN1(CONN-TH_2P-P2.50-XH2.54-2P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CN?(CONN-TH_2P-P2.50-XH2.54-2P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P2(PIN_4Ω≈≈≈’Î)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P3(PIN_4Ω≈≈≈’Î)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P4(PIN_4Ω≈≈≈’Î)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(ESP32DEVKITC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL-1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(SW-TH_KH-SS12D11-G5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(SW-TH_KH-SS12D11-G5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL-1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(ESP32DEVKITC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(0.96OLEDIIC)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=b1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=VCC Pin=P3-3
+Added Pin To Net: NetName=VCC Pin=U1-1
+Added Pin To Net: NetName=NetU1_33 Pin=U1-33
+Added Pin To Net: NetName=NetU1_36 Pin=U1-36
+Added Pin To Net: NetName=GND Pin=U1-38
+Added Pin To Net: NetName=VCC Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=NetC1_1 Pin=U2-3
+Added Pin To Net: NetName=NetC3_1 Pin=U2-4
+Added Pin To Net: NetName=NetC1_1 Pin=U2-5
+Added Pin To Net: NetName=NetC3_2 Pin=U2-6
+Added Pin To Net: NetName=NetC1_1 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U?-GND
+Added Pin To Net: NetName=NetU1_36 Pin=U?-SCL
+Added Pin To Net: NetName=NetU1_33 Pin=U?-SDA
+Added Pin To Net: NetName=VCC Pin=U?-VCC
+Added Pin To Net: NetName=Netb1_2 Pin=b1-2
+Added Pin To Net: NetName=Netb1_2 Pin=U1-7
+Added Net: Name=Netb1_2
+Added Pin To Net: NetName=NetCN1_1 Pin=CN1-1
+Added Pin To Net: NetName=NetCN1_1 Pin=U3-4
+Added Net: Name=NetCN1_1
+Added Pin To Net: NetName=NetCN1_2 Pin=CN1-2
+Added Pin To Net: NetName=NetCN1_2 Pin=U3-2
+Added Net: Name=NetCN1_2
+Added Pin To Net: NetName=NetP2_3 Pin=P2-3
+Added Pin To Net: NetName=NetP2_3 Pin=P4-3
+Added Pin To Net: NetName=NetP2_3 Pin=U1-35
+Added Net: Name=NetP2_3
+Added Pin To Net: NetName=NetP2_4 Pin=P2-4
+Added Pin To Net: NetName=NetP2_4 Pin=P4-4
+Added Pin To Net: NetName=NetP2_4 Pin=U1-34
+Added Net: Name=NetP2_4
+Added Member To Class: ClassName=Sheet2 Member=Component b1 BEEP
+Added Member To Class: ClassName=Sheet2 Member=Component C1 2.2uf
+Added Member To Class: ClassName=Sheet2 Member=Component C2 2.2uf
+Added Member To Class: ClassName=Sheet2 Member=Component C3 2.2uf
+Added Member To Class: ClassName=Sheet2 Member=Component CN1 
+Added Member To Class: ClassName=XH2.54-2P_÷±≤Â_2024-04-30 Member=Component CN? 
+Added Member To Class: ClassName=Sheet2 Member=Component P2 PCR
+Added Member To Class: ClassName=Sheet2 Member=Component P3 TTL_P
+Added Member To Class: ClassName=Sheet2 Member=Component P4 TTL_S
+Added Member To Class: ClassName=Sheet2 Member=Component U1 
+Added Member To Class: ClassName=Sheet2 Member=Component U2 
+Added Member To Class: ClassName=Sheet2 Member=Component U3 
+Added Member To Class: ClassName=0.96OLED_4P_2024-05-03 Member=Component U? 
+Added Member To Class: ClassName=ESP32DevKitC_2024-03-25 Member=Component U? 
+Added Member To Class: ClassName=PW5410B_2024-04-30 Member=Component U? 
+Added Member To Class: ClassName=Sheet2 Member=Component U? 
+Added Member To Class: ClassName=switch-SS12D11-G5_2024-05-03 Member=Component U? 
+Added Room: Name=0.96OLED_4P_2024-05-03
+Added Room: Name=ESP32DevKitC_2024-03-25
+Added Room: Name=PW5410B_2024-04-30
+Added Room: Name=Sheet2
+Added Room: Name=switch-SS12D11-G5_2024-05-03
+Added Room: Name=XH2.54-2P_÷±≤Â_2024-04-30

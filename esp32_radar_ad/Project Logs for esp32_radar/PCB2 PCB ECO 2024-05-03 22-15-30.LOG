@@ -1,0 +1,52 @@
+Added Component: Designator=*(beep)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(C_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(C_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(C_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(PIN_4Ω≈≈≈’Î)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P3(PIN_4Ω≈≈≈’Î)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P4(PIN_4Ω≈≈≈’Î)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=P4-3
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetP1_4 Pin=P4-4
+Added Net: Name=NetP1_4
+Added Net: Name=NetU1_33
+Added Net: Name=NetU1_36
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Pin To Net: NetName=VCC Pin=P3-3
+Added Net: Name=VCC
+Added Class: Name=0.96OLED_4P_2024-05-03
+Added Class: Name=ESP32DevKitC_2024-03-25
+Added Class: Name=PW5410B_2024-04-30
+Added Class: Name=Sheet2
+Added Class: Name=switch-SS12D11-G5_2024-05-03
+Added Class: Name=XH2.54-2P_÷±≤Â_2024-04-30
+Added Room: Name=0.96OLED_4P_2024-05-03
+Added Room: Name=ESP32DevKitC_2024-03-25
+Added Room: Name=PW5410B_2024-04-30
+Added Room: Name=Sheet2
+Added Room: Name=switch-SS12D11-G5_2024-05-03
+Added Room: Name=XH2.54-2P_÷±≤Â_2024-04-30
