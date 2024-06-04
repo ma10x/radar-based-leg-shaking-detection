@@ -1,0 +1,16 @@
+import serial
+import csv
+
+# 打开串口
+ser = serial.Serial('COM7', 115200)  # 替换为正确的串口号和波特率
+
+# 打开CSV文件
+with open('data.csv', 'w', newline='') as csvfile:
+    csvwriter = csv.writer(csvfile)
+    
+    # 监听串口数据并写入CSV文件
+    while True:
+        if ser.in_waiting > 0:
+            data = ser.readline().decode().strip()
+            print(data)  # 打印数据到控制台
+            csvwriter.writerow([data])  # 将数据写入CSV文件
